@@ -22,8 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Decta-cubitus&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
-[![https://github.com/Decta-cubitus
-](https://visitcount.itsvg.in/api?id=Decta-cubitus&icon=10&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Decta-cubitus&icon=10&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/Joe458) 
