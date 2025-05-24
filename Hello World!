@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Hola Mundo con JavaScript</title>
+</head>
+<body>
+  <h1 id="mensaje"></h1>
+  <script>
+    // Mostrar mensaje en el elemento con id "mensaje"
+    document.getElementById("mensaje").textContent = "Hello, World!";
+  </script>
+</body>
+</html>
