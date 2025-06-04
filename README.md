@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hola, me llamo Joel y Estoy interesado en programación, ciberseguridad y hacking ético.<br>🌱Actualmente estoy aprendiendo JavaScript, PHP y Linux.<br>💞️ Estoy buscando colaborar en proyectos pequeños de frontend, <br>que incluyan: HTML, CSS y JavaScript, ya que es la base de mis conocimientos en programación. <br>📫 Aquí os dejo el enlace a mi perfil de GitHub:https://github.com/Decta-cubitus <br>
+👋 Hola, me llamo Joel y Estoy interesado en programación, ciberseguridad y hacking ético.<br>🌱Actualmente estoy aprendiendo JavaScript, PHP, SQL y Linux.<br>💞️ Estoy buscando colaborar en proyectos pequeños de frontend, <br>que incluyan: HTML, CSS y JavaScript, ya que es la base de mis conocimientos en programación. <br>📫 Aquí os dejo el enlace a mi perfil de GitHub:https://github.com/Decta-cubitus <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/esinfotec) 
