@@ -1,4 +1,4 @@
-# ![Logo del proyecto](https://github.com/Decta-Cubitus/Decta-cubitus/blob/main/github-header-banner.png)
+# ![Logo del proyecto](https://github.com/Decta-Cubitus/Decta-cubitus/blob/main/banner.png)
 # 💫 About Me:
 👋 Hola, me llamo Joel y me apasiona la programación, ciberseguridad y hacking ético.<br>🌱Actualmente estoy aprendiendo JavaScript, PHP, SQL y Linux.<br>💞️ Estoy buscando colaborar en proyectos frontend y backend, me ayudaria a consolidar mis conocimientos.<br>📫 Agradezco a César Álvarez Llaneza su aporte a la configuración personalizada del perfil de GitHub, muy visual y dinamico.<br>👉 Os dejo el enlace donde César muestra el paso a paso para su configuración:https://www.instagram.com/reel/DJ6-4lFCS5U/?igsh=anc3YXg0N3dzaDF1
 
